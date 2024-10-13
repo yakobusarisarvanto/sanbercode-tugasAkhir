@@ -9,6 +9,11 @@ Program ini dibuat  untuk menyelesaikan tugas Akhir yang diberikan pada program 
 # Notes
 Ditambahkan step logout karena terdapat tab Bidi Protokol
 
+# How to use
+1. Clone project dr github lalu buka code editor yang dimiliki
+2. Buka terminal
+3. Jalankan perintah "npm install"
+
 # How to run
 Untuk running automation code ini, anda bisa masuk ke wdio.conf.js, lalu ke bagian tags, silahkan ubah tags sesuai keinginan, berikut keterangan masing-masing tags :
 - @regression : untuk menjalankan semua skenario
