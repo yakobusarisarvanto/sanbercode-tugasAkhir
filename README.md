@@ -7,7 +7,7 @@ Program ini dibuat  untuk menyelesaikan tugas Akhir yang diberikan pada program 
 3. Npm init wdio
 
 # Notes
-Ditambahkan step logout karena 
+Ditambahkan step logout karena terdapat tab Bidi Protokol
 
 # How to run
 Untuk running automation code ini, anda bisa masuk ke wdio.conf.js, lalu ke bagian tags, silahkan ubah tags sesuai keinginan, berikut keterangan masing-masing tags :
