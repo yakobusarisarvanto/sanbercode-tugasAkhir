@@ -26,4 +26,5 @@ lalu untuk menjalankannya anda bisa menggunakan perintah berikut di terminal:
 ![image](https://github.com/user-attachments/assets/f510a3c4-1863-423e-b349-fdc999b5bb3c)
 ![image](https://github.com/user-attachments/assets/b225c848-343f-4c0c-bfa2-70215074a26c)
 ![image](https://github.com/user-attachments/assets/bcb2554b-9ccf-437d-a7b2-2dda91a164d2)
+![image](https://github.com/user-attachments/assets/e9299eb1-a9f1-415a-b3eb-5defc58046b6)
 
